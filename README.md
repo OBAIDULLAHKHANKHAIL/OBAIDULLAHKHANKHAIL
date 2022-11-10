@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Obaid+Ullah+Khan!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
 
 <img align="center"  alt="Hi 👋, I'm Obaid Ullah Khan" src="https://github.com/OBAIDULLAHKHANKHAIL/OBAIDULLAHKHANKHAIL/blob/main/Hi%2C%20I'm%20Obaid%20Ullah%20Khan%20.gif">
 
