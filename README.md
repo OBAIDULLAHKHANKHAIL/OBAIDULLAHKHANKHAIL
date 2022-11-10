@@ -1,12 +1,21 @@
 <h1 align="center">Hi 👋, I'm Obaid Ullah Khan</h1>
 <h3 align="center">A passionate software developer from Pakistan.</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/OBAIDULLAHKHANKHAIL/OBAIDULLAHKHANKHAIL/blob/main/Golang.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obaidullahkhankhail&label=Profile%20views&color=0e75b6&style=flat" alt="obaidullahkhankhail" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obaidullahkhankhail" alt="obaidullahkhankhail" /></a> </p>
+<img align="right" alt="Coding" width="300" src="https://github.com/OBAIDULLAHKHANKHAIL/OBAIDULLAHKHANKHAIL/blob/main/Golang.gif">
+
+
+
+- 🔭 I’m currently working on **Hospital Management System**
+
+- 👨‍💻 All of my projects are available at [github.com/OBAIDULLAHKHANKHAIL](github.com/OBAIDULLAHKHANKHAIL)
+
+- 💬 Ask me about **Golang, AI**
 
 - 📫 How to reach me **obaidullahkhankhail@gmail.com**
+
+- 📄 Know about my experiences [linkedin.com/in/obaidullahkhankhail/](linkedin.com/in/obaidullahkhankhail/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
