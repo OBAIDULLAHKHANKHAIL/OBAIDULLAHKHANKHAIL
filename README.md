@@ -156,12 +156,20 @@ certifications:
 
 ---
 
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
+<!-- EXTRA STATS -->
+## 🏅 Contribution Highlights
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OBAIDULLAHKHANKHAIL&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+<img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=OBAIDULLAHKHANKHAIL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=e2e8f0&layout=compact" alt="WakaTime Stats" />
+&nbsp;
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=OBAIDULLAHKHANKHAIL&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=7c3aed&text_color=e2e8f0&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" alt="Extra Stats"/>
+
+</div>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OBAIDULLAHKHANKHAIL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=e2e8f0&layout=donut-vertical&langs_count=8)
 
 </div>
 
@@ -367,7 +375,6 @@ Android app with real-time detection & counting of people, cars, animals using *
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Obaid_Ullah_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/obaidullahkhankhail)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92_343_5596071-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923435596071)
 [![Email](https://img.shields.io/badge/Email-obaidullahkhankhail@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obaidullahkhankhail@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-obaidullahkhankhail.netlify.app-00e5ff?style=for-the-badge&logo=netlify&logoColor=black)](https://obaidullahkhankhail.netlify.app/)
 
