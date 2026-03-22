@@ -20,6 +20,10 @@
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-10b981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"/>
+&nbsp;
+<a href="https://obaidullahkhankhail.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-obaidullahkhankhail.netlify.app-00e5ff?style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio"/>
+</a>
 
 </div>
 
@@ -157,7 +161,7 @@ certifications:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OBAIDULLAHKHANKHAIL&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=OBAIDULLAHKHANKHAIL&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -316,10 +320,41 @@ Android app with real-time detection & counting of people, cars, animals using *
 
 <div align="center">
 
+<!-- 
+  ⚙️ ONE-TIME SETUP REQUIRED:
+  Create file: .github/workflows/snake.yml  with the content below,
+  then go to Actions tab → "Generate Snake" → Run workflow.
+  After it runs once, the snake will appear here automatically every day.
+
+  ─────────────────────────────────────────────────
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: OBAIDULLAHKHANKHAIL
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  ─────────────────────────────────────────────────
+-->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OBAIDULLAHKHANKHAIL/OBAIDULLAHKHANKHAIL/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OBAIDULLAHKHANKHAIL/OBAIDULLAHKHANKHAIL/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OBAIDULLAHKHANKHAIL/OBAIDULLAHKHANKHAIL/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OBAIDULLAHKHANKHAIL/OBAIDULLAHKHANKHAIL/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -334,7 +369,7 @@ Android app with real-time detection & counting of people, cars, animals using *
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Obaid_Ullah_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/obaidullahkhankhail)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92_343_5596071-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923435596071)
 [![Email](https://img.shields.io/badge/Email-obaidullahkhankhail@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obaidullahkhankhail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-00e5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/OBAIDULLAHKHANKHAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-obaidullahkhankhail.netlify.app-00e5ff?style=for-the-badge&logo=netlify&logoColor=black)](https://obaidullahkhankhail.netlify.app/)
 
 </div>
 
