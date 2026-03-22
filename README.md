@@ -161,15 +161,9 @@ certifications:
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=OBAIDULLAHKHANKHAIL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=e2e8f0&layout=compact" alt="WakaTime Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OBAIDULLAHKHANKHAIL&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=7c3aed&text_color=e2e8f0&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 &nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=OBAIDULLAHKHANKHAIL&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=7c3aed&text_color=e2e8f0&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" alt="Extra Stats"/>
-
-</div>
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OBAIDULLAHKHANKHAIL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=e2e8f0&layout=donut-vertical&langs_count=8)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBAIDULLAHKHANKHAIL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=e2e8f0&layout=donut-vertical&langs_count=8" alt="Top Languages"/>
 
 </div>
 
