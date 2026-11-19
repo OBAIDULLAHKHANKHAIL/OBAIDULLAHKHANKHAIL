@@ -125,8 +125,18 @@ Hands-on skill badges include Cloud Security Fundamentals, Terraform on Google C
 ## GitHub activity
 
 <div align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img alt="GitHub stats" src="assets/stats-light.svg" width="48%"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg"><img alt="Top languages" src="assets/langs-light.svg" width="48%"></picture>
+
+| Right now | |
+|:--|:--|
+| 📍 Based in | Islamabad, Pakistan (UTC+5) |
+| 🛠️ Building | Secure cloud backends and applied AI (RAG, agents) |
+| 🧰 Daily stack | Python · Go · C#/.NET · Azure |
+| 🤝 Open to | Senior backend / AI engineering roles and select freelance work |
+| ✉️ Reach me | [Portfolio contact form](https://obaidullahkhankhail.netlify.app/#contact) |
+
+<a href="https://github.com/OBAIDULLAHKHANKHAIL?tab=repositories"><img alt="Followers" src="https://img.shields.io/github/followers/OBAIDULLAHKHANKHAIL?style=for-the-badge&logo=github&color=38bdf8&labelColor=0d1117"></a>
+<a href="https://github.com/OBAIDULLAHKHANKHAIL?tab=repositories"><img alt="Top language" src="https://img.shields.io/github/languages/top/OBAIDULLAHKHANKHAIL/OBAIDULLAHKHANKHAIL?style=for-the-badge&color=5a4cf5&labelColor=0d1117"></a>
+
 </div>
 
 <picture>
