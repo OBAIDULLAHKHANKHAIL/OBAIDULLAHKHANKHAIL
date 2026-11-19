@@ -135,7 +135,6 @@ Hands-on skill badges include Cloud Security Fundamentals, Terraform on Google C
 | ✉️ Reach me | [Portfolio contact form](https://obaidullahkhankhail.netlify.app/#contact) |
 
 <a href="https://github.com/OBAIDULLAHKHANKHAIL?tab=repositories"><img alt="Followers" src="https://img.shields.io/github/followers/OBAIDULLAHKHANKHAIL?style=for-the-badge&logo=github&color=38bdf8&labelColor=0d1117"></a>
-<a href="https://github.com/OBAIDULLAHKHANKHAIL?tab=repositories"><img alt="Top language" src="https://img.shields.io/github/languages/top/OBAIDULLAHKHANKHAIL/OBAIDULLAHKHANKHAIL?style=for-the-badge&color=5a4cf5&labelColor=0d1117"></a>
 
 </div>
 
