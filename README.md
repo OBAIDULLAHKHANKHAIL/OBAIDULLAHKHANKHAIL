@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Obaid Ullah Khan, Senior Software Engineer in Islamabad, Pakistan: Azure microservices, Python, Go, secure backends, applied AI and RAG" src="assets/banner-light.svg" width="100%">
+  <img alt="Obaid Ullah Khan, Senior Software Engineer in Islamabad, Pakistan: Azure microservices, Python, Go, secure backends, applied AI and RAG" src="assets/banner-dark.svg" width="100%">
 </picture>
 
 <div align="center">
